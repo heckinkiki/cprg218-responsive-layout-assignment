@@ -1,9 +1,11 @@
 body{
     margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h2 {
     margin-top: 0;
+    color: #120323;
 }
 
 main {
@@ -70,6 +72,7 @@ footer {
     }
     figure img {
         max-width: 300px;
+        max-height: 300px;
     }
 
     aside {
@@ -93,6 +96,7 @@ footer {
     figure img {
         width: 100%;
         max-width: 100%;
+        max-height:none;
     }
 
     aside {
